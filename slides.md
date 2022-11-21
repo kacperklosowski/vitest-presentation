@@ -20,7 +20,7 @@ A quick overview.
 
 * Unit test framework
 * Created 1 year ago by devs behind Vue / Vite
-* Weekly downloads: [742.5K](https://www.npmjs.com/package/vitest)
+* Weekly downloads: [~740K](https://www.npmjs.com/package/vitest)
 * [Less popular](https://npmtrends.com/jest-vs-vitest) by Jest, but getting a [lot of traction](https://2021.stateofjs.com/en-US/libraries/testing/) recently
 * Github stars [~7K](https://github.com/vitest-dev/vitest)
 
